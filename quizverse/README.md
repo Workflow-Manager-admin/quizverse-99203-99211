@@ -35,8 +35,8 @@ The main brand colors are defined as CSS variables in `src/App.css`:
 
 ```css
 :root {
-  --kavia-orange: #E87A41;
-  --kavia-dark: #1A1A1A;
+  --kavia-orange:rgb(82, 232, 65);
+  --kavia-dark:rgb(26, 26, 26);
   --text-color: #ffffff;
   --text-secondary: rgba(255, 255, 255, 0.7);
   --border-color: rgba(255, 255, 255, 0.1);
