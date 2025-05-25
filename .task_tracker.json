@@ -1,0 +1,5 @@
+{
+  "task_description": "{'component_name': 'Main Container for QuizVerse', 'description': 'Primary container for QuizVerse implementation: QuizVerse is a React.js-based quiz application featuring a user-friendly quiz experience and a separate admin panel for question management. Users can take randomized quizzes from a large question bank, view scores, and review correct answers. The admin panel allows for secure login, question creation, editing, and deletion, all with a clean, responsive UI using Tailwind CSS.', 'framework': 'react', 'platform': 'web'}",
+  "tasks": {},
+  "next_task_id": 1
+}
